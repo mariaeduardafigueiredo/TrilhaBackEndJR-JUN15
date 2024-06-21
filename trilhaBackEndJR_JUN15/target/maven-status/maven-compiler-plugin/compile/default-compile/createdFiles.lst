@@ -1,0 +1,6 @@
+com\pxp\SQLite\trilhaBackEndJR_JUN15\controller\StudentController.class
+com\pxp\SQLite\trilhaBackEndJR_JUN15\entity\Student.class
+com\pxp\SQLite\trilhaBackEndJR_JUN15\repository\StudentRepository.class
+com\pxp\SQLite\trilhaBackEndJR_JUN15\service\StudentService.class
+com\pxp\SQLit\trilhaBackEndJR_JUN15\SpringBootAndSqLiteApplication.class
+com\pxp\SQLite\trilhaBackEndJR_JUN15\dialect\SQLiteDialect.class
